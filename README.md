@@ -1,22 +1,14 @@
-# teletype hardware
+# baudot hardware
 
-eurorack module by https://monome.org
+Based on the Monome Teletype.
 
-all circuits in eagle.
+Schematic/PCB diagram converted from Eagle to KiCAD.
 
-firmware: https://github.com/monome/teletype
+Firmware: https://github.com/karmic-audio/baudot-software
 
-## BOM
+## License
 
-- components: https://octopart.com/bom-tool/cjqXTx5c
-- mechanical
-  - mcmaster: 91780A023, 91772A077, 91772A073
+CC-BY-SA 3.0. Do not use the name "monome" or "teletype" in derivative works.
 
-## license
-
-cc-by-sa-3.0
-
-do not use the name "monome" or "teletype" in derivative works.
-
-created by brian crabtree (bcrabtree@monome.org)
-
+Created by brian crabtree (bcrabtree@monome.org)
+Modified by Serge Bazanski (q3k@q3k.org) for Karmic Audio.
