@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "teletype-180824-no-slots")(type "KiCad")(uri "$(KIPRJMOD)/teletype-180824-no-slots.pretty")(options "")(descr ""))
+)
